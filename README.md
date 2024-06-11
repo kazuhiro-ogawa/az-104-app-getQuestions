@@ -5,4 +5,4 @@ AZ-104 TrainingApp(https://github.com/kazuhiro-ogawa/az-104-react-app.git)
 HTTPリクエストがトリガーでAzure SQL Databaseから問題を取得し、レスポンスで取得した問題を返します。
 
 ## システム構成図
-![システム構成図_azurefunctions_getquestion](https://github.com/kazuhiro-ogawa/az-104-app-getQuestions/assets/105719508/3f01af61-49c6-4991-872d-5526246d2c1d)
+![getquestion](https://github.com/kazuhiro-ogawa/az-104-app-getQuestions/assets/105719508/171c5699-9c69-4cff-8677-fb7843f61aeb)
